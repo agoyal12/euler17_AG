@@ -1,27 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Eulor17_AG
 {
-    class Program
+    class Project_Euler_Problem_17
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            int sumOfLettersInNosTillHund ;
-            sumOfLettersInNosTillHund = calcUnits() + calcTeens() + calcTens() + calcHundreds() + calcThousands();
-
-            //Console.WriteLine(calcUnits());
-            //Console.WriteLine(calcTeens());
-            //Console.WriteLine(calcTys());
-            
-            Console.WriteLine(sumOfLettersInNosTillHund); //54351 -83151 - 95886
-            Console.ReadLine();
+            int sumOfLetters;
+            sumOfLetters= calcUnits() + calcTeens() + calcTens() + calcHundreds() + calcThousand();
+            Console.WriteLine(sumOfLetters);
         }
 
-          static int calcUnits()
+        static int calcUnits()
         {
             //1-9
             int valueUnits = 3 + 3 + 5 + 4 + 4 + 3 + 5 + 5 + 4; //count of letters in 1-9
@@ -52,12 +42,11 @@ namespace Eulor17_AG
             //count of letters in : 'hundred' + 'and' + 1-9 in hundredth place of 100,200,300... + 1-9 in units place like 101,102,103..109 + 10-19 in 100,200,300...+ 20-99 in 100,200,300...
             return valueHundreds;
         }
-        static int calcThousands()
+        static int calcThousand()
         {
             //1000
-            int valueThousands = 3 + 8; //count of letters in "ONE THOUSAND"
-            return valueThousands;
+            int valueThousand = 3 + 8; //count of letters in "ONE THOUSAND"
+            return valueThousand;
         }
-    
     }
 }

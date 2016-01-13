@@ -4,3 +4,9 @@ c:\users\aakanksha.goyal\documents\visual studio 2015\Projects\Eulor17_AG\Eulor1
 c:\users\aakanksha.goyal\documents\visual studio 2015\Projects\Eulor17_AG\Eulor17_AG\obj\Debug\Eulor17_AG.csprojResolveAssemblyReference.cache
 c:\users\aakanksha.goyal\documents\visual studio 2015\Projects\Eulor17_AG\Eulor17_AG\obj\Debug\Eulor17_AG.exe
 c:\users\aakanksha.goyal\documents\visual studio 2015\Projects\Eulor17_AG\Eulor17_AG\obj\Debug\Eulor17_AG.pdb
+C:\Users\Blair.Duncan\Documents\GitHub\euler17_AG\Eulor17_AG\bin\Debug\Eulor17_AG.exe.config
+C:\Users\Blair.Duncan\Documents\GitHub\euler17_AG\Eulor17_AG\obj\Debug\Eulor17_AG.exe
+C:\Users\Blair.Duncan\Documents\GitHub\euler17_AG\Eulor17_AG\obj\Debug\Eulor17_AG.pdb
+C:\Users\Blair.Duncan\Documents\GitHub\euler17_AG\Eulor17_AG\bin\Debug\Eulor17_AG.exe
+C:\Users\Blair.Duncan\Documents\GitHub\euler17_AG\Eulor17_AG\bin\Debug\Eulor17_AG.pdb
+C:\Users\Blair.Duncan\Documents\GitHub\euler17_AG\Eulor17_AG\obj\Debug\Eulor17_AG.csprojResolveAssemblyReference.cache
