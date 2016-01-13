@@ -4,6 +4,7 @@ namespace Eulor17_AG
 {
     class Project_Euler_Problem_17
     {
+        // Main entry of program
         static void Main()
         {
             int sumOfLetters;
